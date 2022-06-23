@@ -16,7 +16,8 @@
 - [dynamoDB 데이베이스 모델링](https://www.erdcloud.com/d/LzjL8LM7RSC4odrnv)
 - NoSQL 데이터베이스에는 용량이 큰 데이터와, 비밀번호를 찾을때 보낸 인증번호 같이 유효기간이 존재하는 데이터를 저장을 하였습니다. 여러 데이터베이스를 사용해서, 데이터를 관리하기가 쉽지 않았습니다. 다음에는 NoSQL과 관계형데이터베이스를 어떻게 같이 사용하는지 좀더 공부를 하고 설계를 해야할것 같습니다.
 - S3는 제일 저렴한 데이터 저장소로, 용량이 큰 사진 데이터를 저장하였습니다. 
-
+### 람다
+- 람다 코드는 [이폴더](https://github.com/BuckyBucketApp/project/tree/main/백앤드/람다코드)를 참고해주세요.
 ### API 명세서
 - API 명세서는 [로그인 api](https://github.com/BuckyBucketApp/project/blob/main/백앤드/로그인%20api.docx) ,[그 외 api](https://github.com/BuckyBucketApp/project/blob/main/백앤드/버킷리스트_api.docx)를 참고해주세요.
 
