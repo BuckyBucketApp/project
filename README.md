@@ -7,6 +7,8 @@
 실행 후, 인증과 후기등록을 통해 자신의 버킷리스트를 공유하며 목표를 달성하고 포인트를 지급 받음으로써 사용자들간의 동기부여가 되며 버킷리스트 달성에 서포트가 될 것입니다.
 포인트 랭킹 시스템을 통해 유저들 서로에게 자극을 주는 요소 또한 도움을 줄 것입니다.
 
+### 서비스 플로우
+![플로우](https://github.com/BuckyBucketApp/project/blob/main/서비스%20플로우_중간발표.drawio.png)
 ### 소프트웨어 스택
 - 프론트앤드: Java, Native Android Framework, Retrofit, Gson
 - 백앤드: MySQL, NodeJS, Google NLP, Google Vision, AWS lambda, AWS RDS, AWS S3, AWS DynamoDB
