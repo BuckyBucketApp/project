@@ -35,7 +35,9 @@
    #### :point_right: Retrofit
         안드로이드 앱 개발 시 서버 통신에 사용되는 API를 Java interface로 변환해 개발할 때,
         API를 쉽게 호출할 수 있도록 해주는 라이브러리
-        자세한 내용은 [retrofit](https://square.github.io/retrofit/) 를 참고하세요.
+   
+   자세한 내용은 밑의 링크를 참고하세요.
+   #### :[retrofit](https://square.github.io/retrofit/) 
            
    #### :point_right: Api는 'initMyApi' 인터페이스에 모두 정의
    #### :point_right: 서버통신 필요한 각 java 클래스들은 request와 response를 통해 연결
