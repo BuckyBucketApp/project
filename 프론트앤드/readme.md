@@ -3,9 +3,11 @@
 - JAVA
 
 
+
 ## :iphone: Sdk Version
 - minSdkVersion : 28
 - targetSdkVersion : 32
+
 
 
 ## :wrench: Dependencies
@@ -37,8 +39,7 @@
    #### :point_right: Api는 'initMyApi' 인터페이스에 모두 정의
    #### :point_right: 서버통신 필요한 각 java 클래스들은 request와 response를 통해 연결
    
-    **1. initMyApi (일부분)**
-    '''java
+    1. initMyApi.java (일부분)
         // 버킷리스트 상세조회 (나의 버킷 확인 리스트에서 클릭시 상세보기페이지)
         @GET("/test/bucketlist")
         Call<JsonObject> getBKListDetailResponse(@Header("Authorization") String token,
@@ -56,8 +57,7 @@
         Call<JsonObject> getBKListHeartFullResponse(@Header("Authorization") String token,
                                                      @Query("bucketId") Integer bucketId);
                                                      
-     **2. RetrofitClient**
-     '''java
+     2. RetrofitClient.java
               private RetrofitClient() {
                     //로그 보기 위한 interceptor
                     HttpLoggingInterceptor httpLoggingInterceptor = new HttpLoggingInterceptor();
