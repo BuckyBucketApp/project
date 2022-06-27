@@ -15,6 +15,7 @@
 - UI/UX: adobe xd
 
 ### 시연영상
+- https://youtu.be/8aQfdoAk8TM
 
 ### 팀원 
 - 정상원: 백앤드 개발
