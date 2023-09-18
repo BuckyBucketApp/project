@@ -1,17 +1,17 @@
 ## :earth_asia: 개발 환경 및 사용 언어
 - Android Studio Bumblebee | 2021.1.1 Patch 3
-- JAVA
+- JAVA    
 
 
 
 ## 🎥 시연영상
-#### https://youtu.be/8aQfdoAk8TM
+#### https://youtu.be/8aQfdoAk8TM    
 
 
 
 ## :iphone: Sdk Version
 - minSdkVersion : 28
-- targetSdkVersion : 32
+- targetSdkVersion : 32    
 
 
 
@@ -33,7 +33,7 @@
      implementation 'com.google.code.gson:gson:2.8.9'
 
      > HTTP 통신 로그
-     implementation 'com.squareup.okhttp3:logging-interceptor:3.11.0'
+     implementation 'com.squareup.okhttp3:logging-interceptor:3.11.0'    
      
      
 ## Retrofit2, API, Request, Response
