@@ -2,6 +2,8 @@
 - Android Studio Bumblebee | 2021.1.1 Patch 3
 - JAVA
 
+## 🎥: 시연영상
+#### :[video](https://youtu.be/8aQfdoAk8TM) 
 
 
 ## :iphone: Sdk Version
